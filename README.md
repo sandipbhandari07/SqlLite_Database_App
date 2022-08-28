@@ -17,3 +17,14 @@ App that has used SqlLite as a Database
 
 
 2.SqlLite
+
+<h2>DESCRIPTION OF EACH ACTIVITY/JAVA FILE:</h2>
+
+1.Main Activity
+
+2.LoginPage
+
+3.Homepage
+
+4.Product
+
